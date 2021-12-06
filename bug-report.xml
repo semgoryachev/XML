@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<title>Don't click button SignUp to home page</title>
+<Step-to-reproduce>Open home page, Click to SignUp</Step-to-reproduce>
+<Expected result>Open page registration</Expected result>
+<Actual result>Don't open page registration</Actual result>

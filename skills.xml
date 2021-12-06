@@ -1,0 +1,14 @@
+<theory>QA, QC, bug-report, documents, types of testing, SDLC, STLC</theory>
+<client server architecture>structure</client server architecture>
+<HTTP requests>GET, PUT, POST, DELETE</HTTP requests>
+<HTTP responses>200, 300, 400, 500</HTTP responses>
+<data transmission format>JSON, XML</data transmission format>
+<API>Postman</API>
+<logs>read</logs>
+<sniffing>Charles, Fiddler</sniffing>
+<DevTools>Google Chrome, FireFox</DevTools>
+<Mobile testing>Android, iOS</Mobile testing>
+<terminal>mkdir, mv, cat, ls, cp</terminal>
+<SQL>Select, Join</SQL>
+<Postgres>install, setup, use</Postgres>
+<load testing>Jmeter</load testing>

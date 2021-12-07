@@ -1,14 +1,17 @@
-<theory>QA, QC, bug-report, documents, types of testing, SDLC, STLC</theory>
-<client server architecture>structure</client server architecture>
-<HTTP requests>GET, PUT, POST, DELETE</HTTP requests>
-<HTTP responses>200, 300, 400, 500</HTTP responses>
-<data transmission format>JSON, XML</data transmission format>
-<API>Postman</API>
-<logs>read</logs>
-<sniffing>Charles, Fiddler</sniffing>
-<DevTools>Google Chrome, FireFox</DevTools>
-<Mobile testing>Android, iOS</Mobile testing>
-<terminal>mkdir, mv, cat, ls, cp</terminal>
-<SQL>Select, Join</SQL>
-<Postgres>install, setup, use</Postgres>
-<load testing>Jmeter</load testing>
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+  <theory>QA, QC, bug-report, documents, types of testing, SDLC, STLC</theory>
+  <client_server_architecture>structure</client_server_architecture>
+  <HTTP_requests>GET, PUT, POST, DELETE</HTTP_requests>
+  <HTTP_responses>200, 300, 400, 500</HTTP_responses>
+  <data_transmission_format>JSON, XML</data_transmission_format>
+  <API>Postman</API>
+  <logs>read</logs>
+  <sniffing>Charles, Fiddler</sniffing>
+  <DevTools>Google Chrome, FireFox</DevTools>
+  <Mobile_testing>Android, iOS</Mobile_testing>
+  <terminal>mkdir, mv, cat, ls, cp</terminal>
+  <SQL>Select, Join</SQL>
+  <Postgres>install, setup, use</Postgres>
+  <load_testing>Jmeter</load_testing>
+</skills>

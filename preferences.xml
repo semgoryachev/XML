@@ -1,5 +1,8 @@
-<film>Silence of the lambs</film>
-<movies>Broen, Morden i Sandhamn, Borgen</movies>
-<eat>milk foods</eat>
-<season>summer</season>
-<country>Sweden</country>
+<?xml version="1.0" encoding="UTF-8"?>
+<myPreferences>
+  <film>Silence of the lambs</film>
+  <movies>Broen, Morden i Sandhamn, Borgen</movies>
+  <eat>milk foods</eat>
+  <season>summer</season>
+  <country>Sweden</country>
+</myPreferences>
